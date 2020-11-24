@@ -8,6 +8,12 @@
     <artifactId>softwareEngineeringDep</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependency>
+        <groupId>com.github.jhmu20</groupId>
+        <artifactId>softwareEngineeringA1</artifactId>
+        <version></version>
+    </dependency>
+
     <repositories>
         <repository>
             <id>jitpack.io</id>
